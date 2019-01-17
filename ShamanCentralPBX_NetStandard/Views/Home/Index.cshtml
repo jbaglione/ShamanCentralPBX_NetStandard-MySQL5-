@@ -1,0 +1,6 @@
+﻿
+    @if (@ViewData["callFileName"] == null || @ViewData["callFileName"].ToString() == "")
+    {
+        <p>El audio no se encuentra disponible</p>
+    }
+    else { Response.Redirect(@ViewData["callFileName"].ToString()); }

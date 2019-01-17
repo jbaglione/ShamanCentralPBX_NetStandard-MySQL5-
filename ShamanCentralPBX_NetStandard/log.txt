@@ -1,0 +1,49 @@
+2019-01-17 13:20:33.8953|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 13:20:32.9592|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 13:21:04.5827|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-17 13:21:05.3577|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-17 13:21:06.1017|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => , numero  => , agente  => 
+2019-01-17 13:21:06.2184|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|Exception GetFileByUniqueId 
+2019-01-17 13:21:06.2184|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => 10000, numero  => 20000, agente  => 30000
+2019-01-17 13:21:06.3171|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|Exception GetFileByPoperties 
+2019-01-17 13:21:32.3146|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 13:21:34.0589|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-17 13:21:37.9774|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|Exception GetFileByUniqueId 
+2019-01-17 13:21:37.9774|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => 10000, numero  => 20000, agente  => 30000
+2019-01-17 13:21:38.0672|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|Exception GetFileByPoperties 
+2019-01-17 13:26:26.8243|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 13:26:26.8243|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 13:26:26.9071|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 5
+2019-01-17 13:26:26.9071|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-17 13:26:26.9071|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => , numero  => , agente  => 
+2019-01-17 13:26:26.8243|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 13:26:26.9559|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 5
+2019-01-17 13:26:31.0999|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|Exception GetFileByUniqueId 
+2019-01-17 13:26:31.2265|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|Exception GetFileByUniqueId 
+2019-01-17 13:26:31.2594|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId Exepcion (ex GetaAllMessages) => No se ha especificado un proveedor OLE DB en ConnectionString.  Un ejemplo sería, 'Provider=SQLOLEDB;'.
+2019-01-17 13:26:31.2914|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId Exepcion (ex GetaAllMessages) => No se ha especificado un proveedor OLE DB en ConnectionString.  Un ejemplo sería, 'Provider=SQLOLEDB;'.
+2019-01-17 13:26:31.2914|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => 10000, numero  => 20000, agente  => 30000
+2019-01-17 13:26:31.3263|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => 10000, numero  => 20000, agente  => 30000
+2019-01-17 13:26:31.4469|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|Exception GetFileByPoperties 
+2019-01-17 13:26:31.5197|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties Exepcion (ex GetaAllMessages) => No se ha especificado un proveedor OLE DB en ConnectionString.  Un ejemplo sería, 'Provider=SQLOLEDB;'.
+2019-01-17 13:26:31.5686|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|Exception GetFileByPoperties 
+2019-01-17 13:26:31.5965|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties Exepcion (ex GetaAllMessages) => No se ha especificado un proveedor OLE DB en ConnectionString.  Un ejemplo sería, 'Provider=SQLOLEDB;'.
+2019-01-17 14:30:09.4121|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 14:30:09.4550|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-17 14:30:09.4550|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => , numero  => , agente  => 
+2019-01-17 15:14:14.4836|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 15:15:13.3649|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 15:18:40.1762|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 15:19:04.2768|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-17 15:27:12.6176|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 15:27:16.4942|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-17 15:28:01.4101|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 15:28:14.0848|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 5
+2019-01-17 15:28:15.7454|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, try cnn.Open(), connectionString=> Server=192.168.3.242;Port=3306;Database=asteriskcdrdb;Uid=emerger;Pwd=eSAL*939_a;
+2019-01-17 15:28:28.9132|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 16:02:42.0703|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 16:02:48.7208|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-17 16:02:50.1718|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => , numero  => , agente  => 
+2019-01-17 16:03:39.1888|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-17 16:03:40.8021|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-17 16:03:40.8021|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => , numero  => , agente  => 
