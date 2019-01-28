@@ -47,3 +47,36 @@
 2019-01-17 16:03:39.1888|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
 2019-01-17 16:03:40.8021|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
 2019-01-17 16:03:40.8021|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => , numero  => , agente  => 
+2019-01-22 15:07:48.5371|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-22 15:07:48.5690|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-22 15:07:48.5690|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => , numero  => , agente  => 
+2019-01-22 15:10:10.3645|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-22 15:10:10.3655|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 5
+2019-01-22 15:10:10.4064|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, try cnn.Open(), connectionString=> Server=192.168.3.242;Port=3306;Database=asteriskcdrdb;Uid=emerger;Pwd=eSAL*939_a;
+2019-01-22 15:10:31.2841|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-22 15:10:34.1081|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 5
+2019-01-22 15:10:34.1151|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, try cnn.Open(), connectionString=> Server=192.168.3.242;Port=3306;Database=asteriskcdrdb;Uid=emerger;Pwd=eSAL*939_a;
+2019-01-22 15:11:48.6425|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-22 15:12:17.6938|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-22 16:48:21.2511|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-22 16:48:23.3564|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-22 16:48:27.3490|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => , numero  => , agente  => 
+2019-01-22 16:55:39.6655|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-22 16:55:39.7064|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 
+2019-01-22 16:55:39.7199|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => , numero  => , agente  => 
+2019-01-22 16:57:15.3153|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-22 16:57:15.3193|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 5
+2019-01-22 16:57:15.3662|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, try cnn.Open(), connectionString=> Server=192.168.3.242;Port=3306;Database=asteriskcdrdb;Uid=emerger;Pwd=eSAL*939_a;
+2019-01-22 16:58:36.7795|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-22 16:58:38.2092|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, uniqueId => 5
+2019-01-22 16:58:38.2092|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId, try cnn.Open(), connectionString=> Server=192.168.3.242;Port=3306;Database=asteriskcdrdb;Uid=emerger;Pwd=eSAL*939_a;
+2019-01-22 16:58:53.1425|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|Index page says hello
+2019-01-22 16:59:33.4105|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|Exception GetFileByUniqueId 
+2019-01-22 16:59:33.4255|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId Exepcion (ex GetaAllMessages) => Reading from the stream has failed.
+No se puede escribir datos de en la conexión de transporte: Se ha forzado la interrupción de una conexión existente por el host remoto.
+Se ha forzado la interrupción de una conexión existente por el host remoto
+2019-01-22 16:59:33.4624|INFO|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByPoperties, fechaHoraLlamado => 10000, numero  => 20000, agente  => 30000
+2019-01-22 17:01:33.9773|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|Exception GetFileByUniqueId 
+2019-01-22 17:01:39.5837|ERROR|ShamanCentralPBX_NetStandard.Controllers.HomeController|GetFileByUniqueId Exepcion (ex GetaAllMessages) => Reading from the stream has failed.
+No se puede escribir datos de en la conexión de transporte: Se ha forzado la interrupción de una conexión existente por el host remoto.
+Se ha forzado la interrupción de una conexión existente por el host remoto
